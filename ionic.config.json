@@ -1,0 +1,7 @@
+{
+  "name": "WhenlrIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
