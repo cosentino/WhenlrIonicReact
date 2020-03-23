@@ -1,0 +1,7 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.firebaseUi {
+  min-width: 250px;
+}

@@ -12,7 +12,7 @@ dependencies {
 
 
 }
-
+apply from: "../../node_modules/cordova-support-google-services/build.gradle"
 
 if (hasProperty('postBuildExtras')) {
   postBuildExtras()
